@@ -1,4 +1,4 @@
-# 💫 About Me 
+# 💫 About Me
 😎 I'm Adegoke Gabriel Adewale.<br>🏠 I live in Abuja, Nigeria.<br>💻 I'm currently working with HTML, CSS,  Javascript, React Js,  Node Js , Typescript, MongoDB<br>👌  I'm very friendly and accomodating
 
 <p align="center">
