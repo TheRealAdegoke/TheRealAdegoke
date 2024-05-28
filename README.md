@@ -8,6 +8,18 @@
 <img src="https://raw.githubusercontent.com/TheRealAdegoke/TheRealAdegoke/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/TheRealAdegoke/count.svg?"  />
+</div>
+
+###
    
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adegoke.gabriel.526) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adegoke-adewale-961399243/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheRealAdegoke) 
