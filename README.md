@@ -4,6 +4,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=FullStack+Developer...+;Building!+Learning!+%F0%9F%92%A1">
 </p>
+
+<img src="https://raw.githubusercontent.com/TheRealAdegoke/TheRealAdegoke/output/snake.svg" alt="Snake animation" />
+
+###
    
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adegoke.gabriel.526) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adegoke-adewale-961399243/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheRealAdegoke) 
